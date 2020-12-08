@@ -1,2 +1,1 @@
-# StudyList
-List tech which I need to learn.
+This list have been created at 2020-12-08 23:55.
