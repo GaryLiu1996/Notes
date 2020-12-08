@@ -1,5 +1,5 @@
 # StudyList
-List tech which I need to learn(or already learn).
+List something about tech which I need to learn(or already learn).
 
 ## 2020:
 - Vue
