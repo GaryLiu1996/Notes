@@ -1,0 +1,12 @@
+java在配置后 没设置环境变量 但是在cmd 却可以让java -version命令生效
+
+但是VSCODE并没有检查到JAVA已安装
+
+按照某教程安装后 java才能被VSCode识别
+https://blog.csdn.net/m0_61003412/article/details/120832955
+
+
+
+
+找不到或者无法加载主类main : 路径问题
+https://www.jb51.net/article/235837.htm
